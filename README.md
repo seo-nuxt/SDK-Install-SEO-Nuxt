@@ -1,1 +1,1 @@
-# SDK-Install-SEO-Nuxt-
+# SDK Install [ SEO Nuxt  ]
